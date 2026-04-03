@@ -2,8 +2,7 @@
 
 Administradora de formação, analista de dados por escolha.
 
-Trabalho com gestão de processos, dados financeiros e automação no dia a dia —
-e estou migrando cada vez mais para a área de dados e tecnologia.
+Trabalho com gestão de processos, dados financeiros e automação no dia a dia e estou migrando cada vez mais para a área de dados e tecnologia.
 
 ## 🎯 Atualmente
 
