@@ -6,7 +6,7 @@ Trabalho com gestão de processos, dados financeiros e automação no dia a dia 
 
 ## 🎯 Atualmente
 
-- 💼 Coordenadora Administrativa na Oxigenar Equipamentos Médicos
+- 💼 Coordenadora Administrativa
 - 📚 MBA em Data Science & Analytics — USP (2025–2026)
 - 🖥️ Estudando HTML, CSS, Front-end e Data Visualization
 
